@@ -20,9 +20,7 @@
 - [loglinter](https://github.com/gopher-95/loglinter) — линтер для проверки логов, совместимый с golangci-lint
 - [go-task-planner](https://github.com/gopher-95/go-task-planner) — REST API todo-лист (дипломный проект)
 
-## 📬 Статус и контакты
-
-**Статус:** в активном поиске работы, рассматриваю вакансии бэкенд-разработчика на Golang.
+## 📬 Контакты
 
 **Связаться со мной:**
 - 📧 Email: gopher-95@yandex.ru
